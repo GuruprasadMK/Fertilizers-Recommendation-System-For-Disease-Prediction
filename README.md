@@ -1,1 +1,1 @@
-# Plant-Detection-CNN
+# Plant-Disease-Detection-CNN
