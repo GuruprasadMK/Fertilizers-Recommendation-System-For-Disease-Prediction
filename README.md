@@ -1,1 +1,1 @@
-# Plant-Disease-Detection-CNN
+# Fertilizers Recommendation System For Disease Prediction
